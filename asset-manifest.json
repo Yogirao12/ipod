@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/ipod/static/css/main.ae6b1229.css",
+    "main.js": "/ipod/static/js/main.136080e5.js",
+    "static/js/787.2994897f.chunk.js": "/ipod/static/js/787.2994897f.chunk.js",
+    "static/media/2gulaab.mp3": "/ipod/static/media/2gulaab.0c20f6e008095a471af3.mp3",
+    "static/media/nature.jpg": "/ipod/static/media/nature.7772dfc2b5ed27bc8675.jpg",
+    "static/media/game.jpg": "/ipod/static/media/game.d74672aa8ff5cabc4f6c.jpg",
+    "static/media/2gulaab.jpg": "/ipod/static/media/2gulaab.f25b52402aca5fb80ca8.jpg",
+    "index.html": "/ipod/index.html",
+    "main.ae6b1229.css.map": "/ipod/static/css/main.ae6b1229.css.map",
+    "main.136080e5.js.map": "/ipod/static/js/main.136080e5.js.map",
+    "787.2994897f.chunk.js.map": "/ipod/static/js/787.2994897f.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ae6b1229.css",
+    "static/js/main.136080e5.js"
+  ]
+}
